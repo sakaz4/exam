@@ -1,0 +1,10 @@
+.element {
+  width: 500px;
+  padding: 20px;
+  background-color: blue;
+  -webkit-box-shadow: 0 0 30px #ccc;
+          box-shadow: 0 0 30px #ccc;
+  border-radius: 20px;
+  color: #ffff;
+}
+/*# sourceMappingURL=style.css.map */

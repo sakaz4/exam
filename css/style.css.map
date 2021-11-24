@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACR,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,gBAAgB,EAAE,IAAI;EACtB,UAAU,EAAE,aAAa;EACzB,aAAa,EAAE,IAAI;EACnB,KAAK,EAAE,KAAK;CAAG",
+    "sources": [
+        "../../lessons/less13/SASS. Урок 1.2. Знакомство с CSS препроцессорами. Использование SASS/sass/style.sass"
+    ],
+    "names": [],
+    "file": "style.css"
+}
